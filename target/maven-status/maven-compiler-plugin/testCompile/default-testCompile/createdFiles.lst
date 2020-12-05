@@ -1,2 +1,4 @@
+PageObjectModel\TrendingPage.class
 StepDefinitions\StepDefinition.class
+GeneralUtilities\GeneralUtility.class
 TestRunner.class

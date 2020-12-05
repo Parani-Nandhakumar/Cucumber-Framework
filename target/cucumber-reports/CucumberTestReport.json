@@ -3,17 +3,17 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2020-12-03T15:37:29.238Z",
+        "start_timestamp": "2020-12-05T09:29:28.701Z",
         "line": 2,
         "name": "Trending Section Page",
         "description": "",
-        "id": "feature1;trending-section-page",
+        "id": "youtube-trending-videos;trending-section-page",
         "type": "scenario",
         "keyword": "Scenario",
         "steps": [
           {
             "result": {
-              "duration": 11615133000,
+              "duration": 9240489900,
               "status": "passed"
             },
             "line": 3,
@@ -25,7 +25,7 @@
           },
           {
             "result": {
-              "duration": 725797400,
+              "duration": 187558100,
               "status": "passed"
             },
             "line": 4,
@@ -37,7 +37,7 @@
           },
           {
             "result": {
-              "duration": 28957575400,
+              "duration": 2640608100,
               "status": "passed"
             },
             "line": 5,
@@ -50,9 +50,9 @@
         ]
       }
     ],
-    "name": "Feature1",
+    "name": "Youtube Trending Videos",
     "description": "",
-    "id": "feature1",
+    "id": "youtube-trending-videos",
     "keyword": "Feature",
     "uri": "file:src/test/resource/Trending.feature",
     "tags": []
